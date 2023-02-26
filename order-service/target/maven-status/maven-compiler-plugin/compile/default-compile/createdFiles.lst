@@ -1,0 +1,16 @@
+com\example\orderservice\event\OrderPlacedEvent.class
+com\example\orderservice\dto\OrderLineItemsDTO$OrderLineItemsDTOBuilder.class
+com\example\orderservice\dto\OrderRequest$OrderRequestBuilder.class
+com\example\orderservice\OrderServiceApplication.class
+com\example\orderservice\controller\OrderController.class
+com\example\orderservice\model\Order.class
+com\example\orderservice\model\OrderLineItems.class
+com\example\orderservice\dto\OrderLineItemsDTO.class
+com\example\orderservice\model\Order$OrderBuilder.class
+com\example\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\example\orderservice\dto\OrderRequest.class
+com\example\orderservice\repository\OrderRepository.class
+com\example\orderservice\config\WebClientConfig.class
+com\example\orderservice\dto\InventoryResponse.class
+com\example\orderservice\model\OrderLineItems$OrderLineItemsBuilder.class
+com\example\orderservice\service\OrderService.class
